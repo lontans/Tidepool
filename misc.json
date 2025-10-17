@@ -1,0 +1,17 @@
+{
+    "Task 1": {
+        "todo_text": "Clean room!",
+        "completed_status": false,
+        "removed_status": false
+    },
+    "Task 2": {
+        "todo_text": "Donate Army clothes",
+        "completed_status": true,
+        "removed_status": false
+    },
+    "Task 3": {
+        "todo_text": "Give away drums",
+        "completed_status": false,
+        "removed_status": false
+    }
+}

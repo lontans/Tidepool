@@ -1,0 +1,72 @@
+{
+    "Day 1": {
+        "entry": "",
+        "mood": 8,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 3,
+        "chess": 901,
+        "run": 4,
+        "academics": 1
+    },
+    "Day 2": {
+        "entry": "",
+        "mood": 6,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 6,
+        "chess": 950,
+        "run": 1,
+        "academics": 2
+    },
+    "Day 3": {
+        "entry": "",
+        "mood": 8,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 8,
+        "chess": 930,
+        "run": 3,
+        "academics": 1
+    },
+    "Day 4": {
+        "entry": "",
+        "mood": 7,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 7,
+        "chess": 950,
+        "run": 5,
+        "academics": 4
+    },
+    "Day 5": {
+        "entry": "",
+        "mood": 7,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 8,
+        "chess": 990,
+        "run": 4,
+        "academics": 6
+    },
+    "Day 6": {
+        "entry": "",
+        "mood": 7,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 8,
+        "chess": 900,
+        "run": 1,
+        "academics": 2
+    },
+    "Day 7": {
+        "entry": "I had a decent day today. Added the time studying feature to tidepool and that was pretty fun. Procrastinating running currently",
+        "mood": 6,
+        "duolingo": true,
+        "brush": true,
+        "sleep": 7,
+        "chess": 900,
+        "run": 0,
+        "academics": 1
+    }
+}

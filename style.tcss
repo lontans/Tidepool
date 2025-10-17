@@ -1,0 +1,302 @@
+Screen{
+    align: center middle;
+    background: lightgoldenrodyellow;
+}
+
+Headline{
+    width: 90%;
+    align: center middle;
+}
+
+#daily_title{
+    content-align: center middle;
+    background: coral;
+    opacity: 80%;
+    width: 100%;
+    color: black;
+    text-align: center;
+    content-align: center middle;
+    text-style: italic;
+}
+
+#title_header{
+    background: darkcyan;
+    text-align: center;
+    content-align: center middle;
+    width: 100%
+}
+
+TabbedContent #--content-tab-stats {
+    color: black;
+}
+
+TabbedContent #--content-tab-hubs {
+    color: black;
+}
+
+TabbedContent #--content-tab-todoTab {
+    color: black;
+}
+
+TabbedContent #--content-tab-completedTab {
+    color: black;
+}
+
+TabbedContent #--content-tab-journal {
+    color: black;
+}
+
+TabbedContent #--content-tab-previousEntries {
+    color: black;
+}
+
+.entry-tab-button {
+    color: black;
+}
+
+
+Tide_Hub{
+    height: 80%;
+    width: 90%;
+    border: solid #a7ccc9;
+    background: #a7ccc9;
+    align: center middle;
+}
+
+#daily_result {
+    height: 15;
+    width: 100%;
+    align: right middle;
+    border: solid transparent;
+}
+
+#dailyTideArt{
+    color: black;
+}
+
+#diaryHeader{
+    color: black;
+}
+
+#mood_chart{
+    height: 15;
+    width: 100%;
+    border: solid purple;
+    align: center middle;
+}
+
+#sleepChart{
+    height: 15;
+    width: 100%;
+    border: solid purple;
+    align: center middle;
+}
+
+#horizon_label{
+    text-style: bold;
+    color: black;
+}
+
+#progress_bars{
+    content-align: center top;
+    height: 10;
+    border: solid green;
+    color: black;
+}
+
+#todays_data_display{
+    height: 50;
+    border: solid blue;
+    align: center middle;
+}
+
+#previousEntries{
+    border: solid transparent;
+    color: black;
+}
+
+#tabs{
+    height: 100%;
+    align: center top;
+    border: solid transparent;
+}
+
+.small_daily_checks{
+    width: auto;
+    margin: 0 1;
+    min-width: 8;
+    content-align: right top;
+}
+
+#diary_in{
+    background: transparent;
+    border: darkcyan;
+    color: black;
+}
+
+/*hubs*/
+.remove_buttons{
+    max-width: 10%;
+}
+
+.task_containers{
+    height: 5;
+    border: solid transparent;
+}
+
+#fitnessTodolist{
+    width: 50%;
+}
+
+#fitnessStats{
+    width: 50%;
+}
+
+#fitness_input_task{
+    margin: 0;
+    max-width: 70%;
+}
+
+#fitness_task_add{
+    max-width: 10%;
+}
+
+#fitness_todolist_bar{
+    border: solid transparent;
+    height: 5;
+}
+
+#fitnessTodoTab{
+    border: solid darkcyan;
+    width: 100%;
+}
+
+#fitness_task_container{
+    content-align: center top;
+    border: solid purple;
+}
+
+#creative_input_task{
+    margin: 0;
+    max-width: 70%;
+}
+
+#creative_task_add{
+    max-width: 10%;
+}
+
+#creative_todolist_bar{
+    border: solid transparent;
+    height: 5;
+}
+
+#creativeTodoTab{
+    border: solid darkcyan;
+    width: 100%;
+}
+
+#creative_task_container{
+    content-align: center top;
+    border: solid purple;
+}
+
+#academicsTodolist{
+    width: 50%;
+}
+
+#academicsStats{
+    width: 50%;
+}
+
+#academics_input_task{
+    margin: 0;
+    max-width: 70%;
+}
+
+#academics_task_add{
+    max-width: 10%;
+}
+
+#academics_todolist_bar{
+    border: solid transparent;
+    height: 5;
+}
+
+#academicsTodoTab{
+    border: solid darkcyan;
+    width: 100%;
+}
+
+#academics_task_container{
+    content-align: center top;
+    border: solid purple;
+}
+
+#misc_input_task{
+    margin: 0;
+    max-width: 70%;
+}
+
+#misc_task_add{
+    max-width: 10%;
+}
+
+#misc_todolist_bar{
+    border: solid transparent;
+    height: 5;
+}
+
+#miscTodoTab{
+    border: solid darkcyan;
+    width: 100%;
+}
+
+#misc_task_container{
+    content-align: center top;
+    border: solid purple;
+}
+
+
+#chessHubContainer{
+    border: solid red;
+}
+
+#chess_input_task{
+    margin: 0;
+    max-width: 30%;
+}
+
+#chess_task_add{
+    max-width: 5;
+}
+
+#chess_todolist_bar{
+    border: solid transparent;
+    height: 5;
+}
+
+#chessTodoTab{
+    border: solid darkcyan;
+    width: 100%;
+}
+
+#chess_task_container{
+    content-align: center top;
+    border: solid purple;
+}
+
+#chessTodolist{
+    width: 50%;
+}
+
+#chessStats{
+    width: 50%;
+}
+
+#test_static1{
+    width: 50%;
+}
+
+#test_static2{
+    width: 50%;
+}

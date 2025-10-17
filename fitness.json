@@ -1,0 +1,17 @@
+{
+    "Task 1": {
+        "todo_text": "Run 5k",
+        "completed_status": false,
+        "removed_status": false
+    },
+    "Task 2": {
+        "todo_text": "Figure out whats wrong with my jaw",
+        "completed_status": false,
+        "removed_status": true
+    },
+    "Task 3": {
+        "todo_text": "task b",
+        "completed_status": false,
+        "removed_status": false
+    }
+}

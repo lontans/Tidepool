@@ -1,0 +1,27 @@
+{
+    "Task 1": {
+        "todo_text": "Submit student ID photo before July 15th",
+        "completed_status": true,
+        "removed_status": false
+    },
+    "Task 2": {
+        "todo_text": "Maths 1910 Homework 2",
+        "completed_status": true,
+        "removed_status": false
+    },
+    "Task 3": {
+        "todo_text": "Email Cornell about the possibility of receiving an id card early",
+        "completed_status": false,
+        "removed_status": true
+    },
+    "Task 4": {
+        "todo_text": "Check housing status, note down move in date and ensure housing agreement signed",
+        "completed_status": true,
+        "removed_status": false
+    },
+    "Task 5": {
+        "todo_text": "Register for Community at Cornell and complete initial reading hw",
+        "completed_status": true,
+        "removed_status": false
+    }
+}

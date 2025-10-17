@@ -1,0 +1,12 @@
+{
+    "Task 1": {
+        "todo_text": "Decide on a very easy chess book to read",
+        "completed_status": true,
+        "removed_status": false
+    },
+    "Task 2": {
+        "todo_text": "Write down some ideas about Caro and QGD/A on a GDoc",
+        "completed_status": true,
+        "removed_status": false
+    }
+}

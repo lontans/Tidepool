@@ -10,17 +10,17 @@
         "removed_status": false
     },
     "Task 3": {
-        "todo_text": "Email Cornell about the possibility of receiving an id card early",
+        "todo_text": "task 3",
         "completed_status": false,
         "removed_status": true
     },
     "Task 4": {
-        "todo_text": "Check housing status, note down move in date and ensure housing agreement signed",
+        "todo_text": "task 4",
         "completed_status": true,
         "removed_status": false
     },
     "Task 5": {
-        "todo_text": "Register for Community at Cornell and complete initial reading hw",
+        "todo_text": "task 5",
         "completed_status": true,
         "removed_status": false
     }
